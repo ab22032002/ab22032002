@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab22032002&label=Profile%20views&color=0e75b6&style=flat" alt="ab22032002" /> </p>
 
-- 🔭 I’m currently working on **Web-development**
+- 🔭 I’m currently working on **Wb_developement**
 
-- 🌱 I’m currently learning **node.js react.js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ab22032002](https://github.com/ab22032002)
 
