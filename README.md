@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer and Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab22032002&label=Profile%20views&color=0e75b6&style=flat" alt="ab22032002" /> </p>
 
-- 🔭 I’m currently working on **Wb_developement**
+- 🔭 I’m currently working on **Web_developement**
 
 - 🌱 I’m currently learning **Machine Learning**
 
