@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab22032002&label=Profile%20views&color=0e75b6&style=flat" alt="ab22032002" /> </p>
 
-- 🔭 I’m currently working on **Web_developement**
+- 🔭 I’m currently working on **Linear_Regression**
 
 - 🌱 I’m currently learning **Machine Learning**
 
