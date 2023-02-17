@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab22032002&label=Profile%20views&color=0e75b6&style=flat" alt="ab22032002" /> </p>
 
-- 🔭 I’m currently working on **Linear_Regression**
+- 🔭 I’m currently working on **SuperVised Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Regression Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ab22032002](https://github.com/ab22032002)
 
-- 💬 Ask me about **HTML/CSS Javascript**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ab22032002@gmail.com**
 
