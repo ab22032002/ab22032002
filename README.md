@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh Bhardwaj</h1>
-<h3 align="center">Data Science and Machine Learning Enthusiast</h3>
+<h3 align="center">Student at National Institute of Technology Rourkela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab22032002&label=Profile%20views&color=0e75b6&style=flat" alt="ab22032002" /> </p>
 
-- 🔭 I’m currently working on **SuperVised Learning**
-
-- 🌱 I’m currently learning **Regression Models**
+- 🔭 I’m currently working on **Multithreading applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ab22032002](https://github.com/ab22032002)
-
-- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ab22032002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhinav-singh-bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh-bhardwaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ab22032002ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh-bhardwaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
